@@ -2,10 +2,10 @@
 # Name:        Electricity officer
 # Purpose:
 #
-# Author:      Admin
+# Author:      #####
 #
 # Created:     14-03-2024
-# Copyright:   (c) Admin 2024
+# Copyright:   (c) Admin 2042
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
