@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        Electricity officer
 # Purpose:
 #
 # Author:      Admin
