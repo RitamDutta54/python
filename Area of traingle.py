@@ -2,7 +2,7 @@
 # Name:        Area of traingle
 # Purpose:
 #
-# Author:      #####
+# Author:      Ritam
 #
 # Created:     14-03-2042
 # Copyright:   (c) Admin 2024
